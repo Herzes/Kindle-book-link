@@ -15,7 +15,7 @@ This is a webpage linked to my kindle bookshelf
 
 <div class="authors-pic">
      <img
-src="https://i.postimg.cc/yNKmZVFD/profilepicture.jpg"alt=" Authors picture">
+src="https://i.postimg.cc/yNKmZVFD/profilepicture.jpg"alt= authors picture">
     </div>
   
 <div class="author-bio">  
