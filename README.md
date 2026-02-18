@@ -13,8 +13,9 @@
 </header>
 
 <div class="author-pic">
-     <img src="https://i.postimg.cc/yNKmZVFD/profilepicture.jpg"alt=" Authors picture">
-    </div>
+     <img src="https://i.postimg.cc/yNKmZVFD/profilepicture.jpg"alt="author picture">
+     </img>
+</div>
   
 <div class="author-bio">  
 <h4> "Welcome to my digital sanctuary! As an author, I believe that every book is a lighthouse—offering guidance, hope, and a new perspective. Here, you’ll find a mix of my own published works, like Anchored, alongside the titles that have shaped my journey through faith and parenting. Whether you’re here to explore my writing or looking for your next great read, I’m thrilled to share this space with you. Happy reading!"</h4>
