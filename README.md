@@ -15,6 +15,7 @@
 <div class="author-pic">
      <img src="https://i.postimg.cc/yNKmZVFD/profilepicture.jpg"alt="author picture">
      </img>
+  
 </div>
   
 <div class="author-bio">  
