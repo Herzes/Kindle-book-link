@@ -17,7 +17,7 @@
 <h2> "Welcome to my Digital Sanctuary!</h2><p> As an author, I believe that every book is a lighthouse—offering guidance, hope, and a new perspective. Here, you’ll find a mix of my own published works, like Anchored, alongside the titles that have shaped my journey through faith and parenting. Whether you’re here to explore my writing or looking for your next great read, I’m thrilled to share this space with you. Happy reading!"</p>
   
   <div class="book-cover">
-    <img src="https://s3.amazonaws.com/CAPS-SSE/content/64366080/DIGITAL_BOOK_THUMBNAIL?versionId=GpteynSNwCcyj4h6e8bUS_IpZSgUKpCC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260217T223041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QDXBIJFE5%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f8f3abc7ee6ad7e96cbb0217ca7725b87133a6997bcd3cd9c2c75b1e585680e1" alt="Anchored Cover">
+    <img src="https://m.media-amazon.com/images/I/71I0wHN-8+L._SY385_.jpg" alt="Anchored Cover">
   </div>
   <div class="book-details">
     <h3>Anchored</h3>
@@ -35,7 +35,7 @@ Through relatable stories, research-informed insight, and a clear four-pillar fr
   
     
   <div class="book-cover">
-    <img src=https://s3.amazonaws.com/CAPS-SSE/content/64909377/DIGITAL_BOOK_THUMBNAIL?versionId=ar5SRzxZOStkurJtJKAUhGReKRrr31ZF&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260302T191741Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QOK4T6665%2F20260302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7d856bcb7cde654d2cf6933c0d33fd0251da3e38f9c576ba46b356d6e40881f4 alt="Velvet dark Indigo sky">
+    <img src=https://m.media-amazon.com/images/I/61W3WLm-91L._SX445_.jpg alt="Velvet dark Indigo sky">
   </div>
   <div class="book-details">
     <h3>Velvet Dark Indigo Sky</h3>
