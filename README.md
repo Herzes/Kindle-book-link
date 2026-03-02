@@ -1,7 +1,7 @@
   # Kindle-book-link
 <nav class="top-nav">
   <div class="nav-content">
-    <span class="logo">MyKindle</span>
+    <span class="logo">My-Books</span>
     <a href="https://kdp.amazon.com/en_US/bookshelf?ref_=kdp_kdp_BS_D_TN_bs" target="_blank" class="kdp-link">
       MyKindle Collection ↗
     </a>
@@ -39,6 +39,7 @@ Through relatable stories, research-informed insight, and a clear four-pillar fr
   <div class="book-details">
     <h3>Velvet Dark Indigo Sky</h3>
     <p class="author">by Kehinde Olasegiri</p>
+  </div>
     <div class="book-price">
       <h4>£10</h4>
     </div> 
