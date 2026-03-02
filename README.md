@@ -34,7 +34,7 @@ Through relatable stories, research-informed insight, and a clear four-pillar fr
 
     
   <div class="book-cover">
-    <img src=https://m.media-amazon.com/images/I/61W3WLm-91L._SX445_.jpg alt="Velvet dark Indigo sky">
+    <img src="https://m.media-amazon.com/images/I/61W3WLm-91L._SX445_.jpg" alt="Velvet dark Indigo sky">
   </div>
   <div class="book-details">
     <h3>Velvet Dark Indigo Sky</h3>
