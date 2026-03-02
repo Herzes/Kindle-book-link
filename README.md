@@ -31,8 +31,7 @@ Kehinde Olasegiri offers a faith-based, practical guide for parents raising chil
 
 Through relatable stories, research-informed insight, and a clear four-pillar framework, this book equips families to nurture emotionally healthy, resilient children while teaching safe and thoughtful digital habits.</p>
 <br>
-<a href="https://kdp.amazon.com/en_US/bookshelf?ref_=kdp_kdp_BS_D_TN_bs" target=" blank">
-  
+
     
   <div class="book-cover">
     <img src=https://m.media-amazon.com/images/I/61W3WLm-91L._SX445_.jpg alt="Velvet dark Indigo sky">
