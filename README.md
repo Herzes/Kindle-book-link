@@ -32,8 +32,7 @@ Kehinde Olasegiri offers a faith-based, practical guide for parents raising chil
 Through relatable stories, research-informed insight, and a clear four-pillar framework, this book equips families to nurture emotionally healthy, resilient children while teaching safe and thoughtful digital habits.</p>
 <br>
 
-    
-  <div class="book-cover">
+   <div class="book-cover">
     <img src="https://m.media-amazon.com/images/I/61W3WLm-91L._SX445_.jpg" alt="Velvet dark Indigo sky">
   </div>
   <div class="book-details">
@@ -43,13 +42,10 @@ Through relatable stories, research-informed insight, and a clear four-pillar fr
     <div class="book-price">
       <h4>£10</h4>
     </div> 
-
 <p>In a world increasingly saturated with noise and artificial light, Kehinde Olasegiri’s childhood was shaped by a profound 'indigo silence'—a velvety darkness under a star-strewn sky that taught her to listen to the wind and find comfort in the unseen. But when her family fractured, this sacred quiet gave way to a new, heavy silence, a prelude to a journey through profound loss, terrifying fear, and the disorienting landscapes of a 'Grey City.'.</p>
 <br>
 <a href="https://kdp.amazon.com/en_US/bookshelf?ref_=kdp_kdp_BS_D_TN_bs" target=" blank">
   
-</td>
-</tr>
-</table>
+
 
   
