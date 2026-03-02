@@ -35,7 +35,7 @@ Through relatable stories, research-informed insight, and a clear four-pillar fr
   
     
   <div class="book-cover">
-    <img src="https://amzn.eu/d/0a7Recrj" alt="Velvet dark Indigo sky">
+    <img src=https://s3.amazonaws.com/CAPS-SSE/content/64909377/DIGITAL_BOOK_THUMBNAIL?versionId=ar5SRzxZOStkurJtJKAUhGReKRrr31ZF&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260302T191741Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QOK4T6665%2F20260302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7d856bcb7cde654d2cf6933c0d33fd0251da3e38f9c576ba46b356d6e40881f4 alt="Velvet dark Indigo sky">
   </div>
   <div class="book-details">
     <h3>Velvet Dark Indigo Sky</h3>
